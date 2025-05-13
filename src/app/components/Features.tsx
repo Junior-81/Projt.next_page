@@ -4,7 +4,7 @@ export default function Features() {
   return (
     <div className="max-w-5xl mx-auto px-6 py-20">
       <h2 className="text-3xl font-bold text-gray-900 mb-12 text-center">
-        Explore os recursos que fazem do Next.js a escolha ideal para React!
+        Explore os recursos do Next.js o tornam a escolha ideal para aplicações React!.
       </h2>
 
       {/* Bloco 1 */}

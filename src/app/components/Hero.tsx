@@ -4,7 +4,7 @@ export default function Hero() {
       <div>
         <h1 className="text-4xl font-bold mb-4 text-gray-900">
           A Landing Page moderna para{" "}
-          <span className="text-[#00A3FF]">desenvolvedores Next</span>
+          <span className="text-[#00A3FF]">desenvolvedores Next & React</span>
         </h1>
         <p className="text-gray-600 mb-8">
           A maneira mais fácil de criar uma landing page em segundos

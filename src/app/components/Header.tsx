@@ -6,25 +6,24 @@ export default function Header() {
       <nav className="max-w-5xl mx-auto flex justify-between items-center">
         <a 
           href="https://github.com/Junior-81" 
-          className="text-xl font-semibold text-gray-900"
+          className="text-xl font-semibold text-gray-900 hover:text-blue-600 transition-colors duration-300"
           target="_blank"
           rel="noopener noreferrer"
         >
           Starter
         </a>
-        <div className="flex items-center gap-1">
+        <div className="flex items-center space-x-4">
           <a 
             href="https://github.com/Junior-81" 
-            className="text-gray-600 hover:text-gray-900"
+            className="px-4 py-2 text-gray-600 hover:text-white hover:bg-blue-600 rounded-lg transition-all duration-300 ease-in-out transform hover:-translate-y-0.5"
             target="_blank"
             rel="noopener noreferrer"
           >
             Entrar
           </a>
-          <span className="text-gray-400">/</span>
           <a 
             href="https://github.com/Junior-81" 
-            className="text-gray-600 hover:text-gray-900"
+            className="px-4 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 shadow-md hover:shadow-lg transition-all duration-300 ease-in-out transform hover:-translate-y-0.5"
             target="_blank"
             rel="noopener noreferrer"
           >
