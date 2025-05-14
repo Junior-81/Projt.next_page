@@ -1,8 +1,7 @@
 import Image from 'next/image'
 
 export default function Footer() {
-  return (
-    <footer className="bg-gradient-to-b from-white to-gray-50">
+  return (    <footer className="bg-gray-100">
       <div className="max-w-5xl mx-auto px-6 py-12">
         <div className="text-center mb-8">
           <a 
@@ -11,14 +10,15 @@ export default function Footer() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            <span className="text-xl font-semibold text-gray-900">Starter</span>
+            <span className="text-2xl hover:scale-125 transition-transform duration-300" role="img" aria-label="signal">📶</span>
+          <span>Starter</span>
           </a>
         </div>
 
         <nav className="flex flex-wrap justify-center gap-8 mb-8">
           <a href="https://github.com/Junior-81" className="text-gray-600 hover:text-gray-900" target="_blank" rel="noopener noreferrer">Home</a>
           <a href="https://github.com/Junior-81" className="text-gray-600 hover:text-gray-900" target="_blank" rel="noopener noreferrer">Sobre</a>
-          <a href="https://github.com/Junior-81" className="text-gray-600 hover:text-gray-900" target="_blank" rel="noopener noreferrer">Documentação</a>
+          <a href="https://github.com/Junior-81/Projt.next_page" className="text-gray-600 hover:text-gray-900" target="_blank" rel="noopener noreferrer">Documentação</a>
           <a href="https://github.com/Junior-81" className="text-gray-600 hover:text-gray-900" target="_blank" rel="noopener noreferrer">GitHub</a>
         </nav>
 
