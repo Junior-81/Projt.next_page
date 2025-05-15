@@ -9,7 +9,7 @@ export default function CTA() {
           Experimente todos os recursos premium por 14 dias
         </p>
         <a 
-          href="https://www.figma.com/design/Ua2BErgGTC4pbbc5NmfvwQ/Next-JS-Landing-Page-Template--Community-?node-id=0-1&p=f&t=DtQuaTvzt5Wuer5B-0"
+          href="https://github.com/Junior-81/Projt.next_page"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-block bg-[#00A3FF] text-white px-8 py-2 rounded hover:bg-[#0081CC] transition-colors"

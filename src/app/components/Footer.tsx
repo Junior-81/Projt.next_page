@@ -17,7 +17,7 @@ export default function Footer() {
           <a href="https://github.com/Junior-81" className="text-gray-600 hover:text-gray-900" target="_blank" rel="noopener noreferrer">Home</a>
           <a href="https://github.com/Junior-81" className="text-gray-600 hover:text-gray-900" target="_blank" rel="noopener noreferrer">Sobre</a>
           <a href="https://github.com/Junior-81/Projt.next_page" className="text-gray-600 hover:text-gray-900" target="_blank" rel="noopener noreferrer">Documentação</a>
-          <a href="https://github.com/Junior-81" className="text-gray-600 hover:text-gray-900" target="_blank" rel="noopener noreferrer">GitHub</a>
+          <a href="https://github.com/Junior-81/Projt.next_page" className="text-gray-600 hover:text-gray-900" target="_blank" rel="noopener noreferrer">GitHub</a>
         </nav>
 
         <div className="flex justify-center gap-6 mb-8">

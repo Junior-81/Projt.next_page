@@ -1,9 +1,5 @@
 # Starter - Landing Page Next.js
 
-<p align="center">
-  <img src="./public/window.svg" alt="Capa do Projeto" width="800"/>
-</p>
-
 ## ✨ Sobre o Projeto
 Landing page moderna, responsiva e otimizada, feita com Next.js, React, TypeScript e Tailwind CSS. Ideal para desenvolvedores que querem um ponto de partida profissional e bonito para seus projetos.
 
@@ -61,16 +57,7 @@ $ npm install
 $ npm run dev
 ```
 
-## 📸 Screenshot
-<p align="center">
-  <img src="./public/window.svg" alt="Screenshot do Projeto" width="600"/>
-</p>
-
-## 📄 Licença
-Este projeto está sob a licença MIT.
-
----
 
 <p align="center">
-  Feito com 💙 por [Seu Nome](https://github.com/Junior-81)
+  Feito com 💙 por Ailton Junior (https://github.com/Junior-81)
 </p>
