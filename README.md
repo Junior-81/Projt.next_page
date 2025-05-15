@@ -1,33 +1,76 @@
-# 🚀 Projeto Next.js Starter
+# Starter - Landing Page Next.js
 
-<div align="center">
+<p align="center">
+  <img src="./public/window.svg" alt="Capa do Projeto" width="800"/>
+</p>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## ✨ Sobre o Projeto
+Landing page moderna, responsiva e otimizada, feita com Next.js, React, TypeScript e Tailwind CSS. Ideal para desenvolvedores que querem um ponto de partida profissional e bonito para seus projetos.
 
-</div>
-
-## 📋 Sobre o Projeto
-
-Uma página simples e moderna desenvolvida com Next.js, apresentando um design clean e responsivo. O projeto inclui uma interface intuitiva com sistema de autenticação.
-
-## ✨ Características
-
-- 🎨 Design moderno e minimalista
-- 📱 Layout totalmente responsivo
-- 🔒 Sistema de autenticação
-- ⚡ Performance otimizada
-- 🌐 SEO friendly
+## 🚀 Demonstração
+> Veja a imagem acima para ter uma ideia do visual inicial do projeto!
 
 ## 🛠️ Tecnologias Utilizadas
+- [Next.js 14](https://nextjs.org/)
+- [React 19](https://react.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
 
-- Next.js 14
-- TypeScript
-- Tailwind CSS
-- ESLint
-- Prettier
+## 📦 Estrutura do Projeto
+```
+Projt.next_page/
+├── public/
+│   ├── file.svg
+│   ├── globe.svg
+│   ├── next.avif
+│   ├── vercel.svg
+│   └── window.svg
+├── src/
+│   └── app/
+│       ├── components/
+│       │   ├── CTA.tsx
+│       │   ├── Features.tsx
+│       │   ├── Footer.tsx
+│       │   ├── Header.tsx
+│       │   └── Hero.tsx
+│       ├── layout.tsx
+│       ├── page.tsx
+│       └── globals.css
+├── package.json
+└── ...
+```
 
-# 📝 Licença
+## 💡 Principais Features
+- Header fixo e transparente
+- Hero com imagem e chamada para ação
+- Seções de features com imagens e textos centralizados
+- Rodapé clean
+- Totalmente responsivo
+- Animações suaves e design moderno
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+## ▶️ Como rodar localmente
+```bash
+# Clone o repositório
+$ git clone https://github.com/Junior-81/seu-repositorio.git
+
+# Instale as dependências
+$ cd Projt.next_page
+$ npm install
+
+# Rode o projeto
+$ npm run dev
+```
+
+## 📸 Screenshot
+<p align="center">
+  <img src="./public/window.svg" alt="Screenshot do Projeto" width="600"/>
+</p>
+
+## 📄 Licença
+Este projeto está sob a licença MIT.
+
+---
+
+<p align="center">
+  Feito com 💙 por [Seu Nome](https://github.com/Junior-81)
+</p>

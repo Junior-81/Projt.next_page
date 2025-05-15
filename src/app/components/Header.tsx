@@ -1,9 +1,9 @@
 import Link from 'next/link'
 import Image from 'next/image'
 
-export default function Header() {
-  return (    <header className="w-full py-4 px-6 bg-gray-100 shadow-sm">
-      <nav className="max-w-5xl mx-auto flex justify-between items-center">        <a 
+export default function Header() {  return (    
+<header className="fixed top-0 left-0 right-0 w-full py-4 px-6 bg-white/30 backdrop-blur-md shadow-sm z-50">
+      <nav className="max-w-5xl mx-auto flex justify-between items-center"><a 
           href="https://github.com/Junior-81" 
           className="flex items-center gap-2 text-xl font-semibold text-gray-900 hover:text-blue-600 transition-colors duration-300"
           target="_blank"
