@@ -1,5 +1,3 @@
-import Image from 'next/image'
-
 export default function Footer() {
   return (    <footer className="bg-gray-100">
       <div className="max-w-5xl mx-auto px-6 py-12">
